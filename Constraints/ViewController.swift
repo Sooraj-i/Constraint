@@ -126,7 +126,7 @@ class ViewController: UIViewController
         
         Activitylevel2.attributedPlaceholder = NSAttributedString(string: "Enter Your Level", attributes: [NSAttributedString.Key.foregroundColor: UIColor.gray])
         
-        Img2.image = a[1]
+        Img2.image = a[0]
         
         Currentweight.layer.cornerRadius = 15.0
         
